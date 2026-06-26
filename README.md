@@ -121,7 +121,7 @@ or open it directly in **Google Colab**.
 ```
 ├── README.md
 ├── DSA_Project_GMM
-├── wine_custering.csv
+├── wine_custering.xls
 ```
 
 ---
