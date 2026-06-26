@@ -119,8 +119,8 @@ or open it directly in **Google Colab**.
 ## 📁 Project Structure
 
 ```
-├── README.md
 ├── DSA_Project_GMM
+├── README.md
 ├── wine_custering.xls
 ```
 
